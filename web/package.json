@@ -1,0 +1,12 @@
+{
+  "name": "bs-shared-dir",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "devDependencies": {
+    "bs-platform": "^5.0.2"
+  }
+}
