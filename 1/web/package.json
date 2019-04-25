@@ -7,6 +7,6 @@
     "watch": "bsb -make-world -w"
   },
   "devDependencies": {
-    "bs-platform": "^5.0.2"
+    "bs-platform": "5.0.3"
   }
 }
